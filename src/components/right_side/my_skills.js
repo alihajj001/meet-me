@@ -4,43 +4,43 @@ function My_skills() {
   // Define an array of skills data with image URLs and titles
   const skillsData = [
     {
-      imgUrl: "/images/skills/html.svg",
+      imgUrl: "/meet-me/images/skills/html.svg",
       title: "HTML",
     },
     {
-      imgUrl: "/images/skills/css.svg",
+      imgUrl: "/meet-me/images/skills/css.svg",
       title: "CSS",
     },
     {
-      imgUrl: "/images/skills/js.svg",
+      imgUrl: "/meet-me/images/skills/js.svg",
       title: "JavaScript",
     },
     {
-      imgUrl: "/images/skills/react.svg",
+      imgUrl: "/meet-me/images/skills/react.svg",
       title: "React",
     },
     {
-      imgUrl: "/images/skills/jquery.svg",
+      imgUrl: "/meet-me/images/skills/jquery.svg",
       title: "jQuery",
     },
     {
-      imgUrl: "/images/skills/php.svg",
+      imgUrl: "/meet-me/images/skills/php.svg",
       title: "php",
     },
     {
-      imgUrl: "/images/skills/laravel.png",
+      imgUrl: "/meet-me/images/skills/laravel.png",
       title: "Laravel",
     },
     {
-      imgUrl: "/images/skills/nodejs.svg",
+      imgUrl: "/meet-me/images/skills/nodejs.svg",
       title: "Nodejs",
     },
     {
-      imgUrl: "/images/skills/wordpress.svg",
+      imgUrl: "/meet-me/images/skills/wordpress.svg",
       title: "WordPress",
     },
     {
-      imgUrl: "/images/skills/other.png",
+      imgUrl: "/meet-me/images/skills/other.png",
       title: "Others",
     },
   ];
