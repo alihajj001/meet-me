@@ -55,20 +55,6 @@ function ScrollToContact() {
               }`}
             ></img>
           </a>
-          <a href="https://www.instagram.com/alihajj.ahmad/">
-            <img
-              src="/meet-me/images/social_media/instagram.webp"
-              style={{
-                visibility:
-                  isInitialLoad && !isAnimating ? "hidden" : "visible",
-              }}
-              className={`sm-icon linkedin ${
-                isAnimating
-                  ? "fadeInAndSlideInstagram"
-                  : "fadeOutAndSlideInstagram"
-              }`}
-            ></img>
-          </a>
         </div>
       </div>
     </div>

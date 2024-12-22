@@ -9,7 +9,7 @@ function My_img() {
       <div className="col-5 col-12-lg flex-row-lg flex-direction-columns-lg align-items-center">
         <div className="flex-row-no-wrap align-items-center column-gap-30">
           <div className="col-4">
-            <img src="/meet-me/images/home/me.jpg" alt="me" className="me-img"></img>
+            <img src="/meet-me/images/home/me.jpeg" alt="me" className="me-img"></img>
           </div>
           <div className="col-8">
             <ScrollToContact></ScrollToContact>
