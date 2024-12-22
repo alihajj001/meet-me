@@ -3,15 +3,15 @@ import React from "react";
 function My_hobbies() {
   const hobbiesData = [
     {
-      imgUrl: "/images/hobbies/gym.png",
+      imgUrl: "/meet-me/images/hobbies/gym.png",
       title: "Gym",
     },
     {
-      imgUrl: "/images/hobbies/anime.svg",
+      imgUrl: "/meet-me/images/hobbies/anime.svg",
       title: "Anime",
     },
     {
-      imgUrl: "/images/hobbies/cooking.png",
+      imgUrl: "/meet-me/images/hobbies/cooking.png",
       title: "Cooking",
     },
   ];

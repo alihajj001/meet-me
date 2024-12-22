@@ -24,12 +24,12 @@ function ScrollToContact() {
           onClick={toggleAnimations}
         >
           <img
-            src="/images/social_media/social_network.webp"
+            src="/meet-me/images/social_media/social_network.webp"
             className="social_net"
           ></img>
           <a href="https://www.linkedin.com/in/ali-hajj-11341a21b/">
             <img
-              src="/images/social_media/linkedin.webp"
+              src="/meet-me/images/social_media/linkedin.webp"
               style={{
                 visibility:
                   isInitialLoad && !isAnimating ? "hidden" : "visible",
@@ -43,7 +43,7 @@ function ScrollToContact() {
           </a>
           <a href="https://wa.me/+96171680583">
             <img
-              src="/images/social_media/whatsapp.webp"
+              src="/meet-me/images/social_media/whatsapp.webp"
               style={{
                 visibility:
                   isInitialLoad && !isAnimating ? "hidden" : "visible",

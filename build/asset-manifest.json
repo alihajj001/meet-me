@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/meet-me/static/css/main.d1653085.css",
+<<<<<<< HEAD
+    "main.js": "/meet-me/static/js/main.bddc9d68.js",
+=======
     "main.js": "/meet-me/static/js/main.6b5aaaa5.js",
+>>>>>>> origin/main
     "static/js/787.b3cd2f50.chunk.js": "/meet-me/static/js/787.b3cd2f50.chunk.js",
     "static/media/Raleway-ExtraLight.ttf": "/meet-me/static/media/Raleway-ExtraLight.e19d39bd2c0c5f58ffea.ttf",
     "static/media/Raleway-Light.ttf": "/meet-me/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
@@ -14,11 +18,19 @@
     "static/media/CV_ALI_EL_HAJJ.pdf": "/meet-me/static/media/CV_ALI_EL_HAJJ.48a8499b0b05981f0506.pdf",
     "index.html": "/meet-me/index.html",
     "main.d1653085.css.map": "/meet-me/static/css/main.d1653085.css.map",
+<<<<<<< HEAD
+    "main.bddc9d68.js.map": "/meet-me/static/js/main.bddc9d68.js.map",
+=======
     "main.6b5aaaa5.js.map": "/meet-me/static/js/main.6b5aaaa5.js.map",
+>>>>>>> origin/main
     "787.b3cd2f50.chunk.js.map": "/meet-me/static/js/787.b3cd2f50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1653085.css",
+<<<<<<< HEAD
+    "static/js/main.bddc9d68.js"
+=======
     "static/js/main.6b5aaaa5.js"
+>>>>>>> origin/main
   ]
 }
